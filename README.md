@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Reid! I love to build things with code, and I'm a wannabe functional programmer.  
+I am a fan of [Scala](https://www.scala-lang.org/) and I'm learning [Haskell](https://www.haskell.org/) right now.
+
+📫 How to reach me: [@8bitReid](https://twitter.com/8bitreid)  
+:rocket: I’m currently learning [ZIO](https://zio.dev/)   
+💬 Ask me about Scala  
+⚡ Fun fact: I'm learning to shoot 35mm film, but I'm not a photographer... I just like to take pictures.
 <!--
 **8bitreid/8bitreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
