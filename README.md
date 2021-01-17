@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm Reid! I love to build things with code, and I'm a wannabe functional programmer.  
-I am a fan of [Scala](https://www.scala-lang.org/) and I'm learning [Haskell](https://www.haskell.org/) right now.
+I am a software engineer working in [Scala](https://www.scala-lang.org/)
 
 📫 How to reach me: [@8bitReid](https://twitter.com/8bitreid)  
-:rocket: I’m currently learning [ZIO](https://zio.dev/)   
+🌱 I’m currently learning [ZIO](https://zio.dev/) and [Caliban](https://ghostdogpr.github.io/caliban/)
 💬 Ask me about Scala  
 ⚡ Fun fact: I'm learning to shoot 35mm film, but I'm not a photographer... I just like to take pictures.
 <!--
