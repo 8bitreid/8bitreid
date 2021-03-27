@@ -4,7 +4,7 @@ I'm Reid! I love to build things with code, and I'm a wannabe functional program
 I am a software engineer working in [Scala](https://www.scala-lang.org/)
 
 📫 How to reach me: [@8bitReid](https://twitter.com/8bitreid)  
-🌱 I’m currently learning [ZIO](https://zio.dev/) and [Caliban](https://ghostdogpr.github.io/caliban/)
+🌱 I’m currently learning [Skunk](https://github.com/tpolecat/skunk), [ZIO](https://zio.dev/) and [Caliban](https://ghostdogpr.github.io/caliban/)
 💬 Ask me about Scala  
 ⚡ Fun fact: I'm learning to shoot 35mm film, but I'm not a photographer... I just like to take pictures.
 <!--
